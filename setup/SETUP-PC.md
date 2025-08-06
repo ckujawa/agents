@@ -197,7 +197,7 @@ To get started in Cursor, check that you've installed the Python and Jupyter ext
 
 After you click "Select Kernel", if there is no option like `.venv (Python 3.12.9)` then please do the following:  
 1. From the File menu, choose Preferences >> VSCode Settings (NOTE: be sure to select `VSCode Settings` not `Cursor Settings`)  
-2. In the Settings search bar, type "venv"  
+2. In the Settings search bar, type "venv"  v
 3. In the field "Path to folder with a list of Virtual Environments" put the path to the project root, like C:\Users\username\projects\agents
 And then try again.
 
